@@ -9,5 +9,5 @@ the platform thread does not switch between executing multiple virtual threads -
 
 virtual threads are managed by the JVM. Therefore, their allocation doesn’t require a system call, and they’re free of the operating system’s context switch.
 
-Read more: <a href="https://jenkov.com/tutorials/java-concurrency/java-virtual-threads.html">https://jenkov.com/tutorials/java-concurrency/java-virtual-threads.html</a>
-Comparision with normal threads <a href="https://www.baeldung.com/java-virtual-thread-vs-thread">https://www.baeldung.com/java-virtual-thread-vs-thread</a>
+Read more: <a href="https://jenkov.com/tutorials/java-concurrency/java-virtual-threads.html" target="_blank">https://jenkov.com/tutorials/java-concurrency/java-virtual-threads.html</a>
+Comparision with normal threads <a href="https://www.baeldung.com/java-virtual-thread-vs-thread" target="_blank">https://www.baeldung.com/java-virtual-thread-vs-thread</a>
